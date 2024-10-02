@@ -1,3 +1,5 @@
+![Profile views](https://komarev.com/ghpvc/?username=olanoit&label=Profile%20views&color=0e75b6&style=flat)
+
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
