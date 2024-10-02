@@ -1,6 +1,5 @@
 ![👋 Hi, my name is Cristóbal Olano Chávez](https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif)
 
-![Profile views](https://komarev.com/ghpvc/?username=olanoit&label=Profile%20views&color=0e75b6&style=flat)
 
 <div id="toc">
   <ul align="left" style="list-style: none">
