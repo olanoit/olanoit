@@ -20,14 +20,14 @@ class CristobalOlanoChavez:
 
     def __init__(self):
         self.username    = 'olanoit'
-        self.name        = 'Wilfredo Cristóbal Olano Chávez'
+        self.name        = 'Cristóbal Olano Chávez'
         self.email       = 'olanoit@gmail.com'
         self.email_alt   = 'olanochavezcrristobal@gmail.com'
         self.linkedin    = 'https://www.linkedin.com/in/olanoit'
         self.github      = 'https://github.com/olanoit'
 
         self.origin = {
-            'country': 'Perú',
+            'country': 'Perú 🇵🇪',
             'city':    'Chiclayo, Lambayeque',
         }
 
@@ -35,7 +35,7 @@ class CristobalOlanoChavez:
             {
                 'degree':      'Systems Engineering (ongoing)',
                 'institution': 'Universidad Señor de Sipán',
-                'location':    'Chiclayo, Perú',
+                'location':    'Chiclayo, Perú ',
                 'since':       2014,
                 'honors':      '1st place academic ranking — 6 consecutive semesters',
             },
@@ -50,7 +50,7 @@ class CristobalOlanoChavez:
         self.experience = [
             {
                 'role':    'Senior Odoo Developer',
-                'company': 'Extendrix — e-Commerce & Odoo ERP Agency',
+                'company': '🇲🇽 Extendrix — e-Commerce & Odoo ERP Agency',
                 'url':     'https://extendrix.com',
                 'country': 'México',
                 'period':  '2022 – Present',
@@ -64,7 +64,7 @@ class CristobalOlanoChavez:
             },
             {
                 'role':    'Odoo Developer — Official Partner Projects',
-                'company': 'Mobilize — Official Odoo Partner',
+                'company': '🇨🇱 Mobilize — Official Odoo Partner',
                 'url':     'https://www.odoo.com/partners/mobilize-1759950',
                 'country': 'Chile / Latam',
                 'period':  '2020 – 2022',
@@ -78,7 +78,7 @@ class CristobalOlanoChavez:
             },
             {
                 'role':    'Odoo Developer — Official Partner Projects',
-                'company': 'ALTA LATAM E.I.R.L. — Official Odoo Partner Perú',
+                'company': '🇵🇪 ALTA LATAM E.I.R.L. — Official Odoo Partner Perú',
                 'url':     'https://www.odoo.com/customers/alta-latam-eirl-1256293',
                 'country': 'Lima, Perú',
                 'period':  '2018 – 2020',
